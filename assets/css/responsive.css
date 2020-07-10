@@ -58,11 +58,6 @@
       background-color: 
       #f3eee9;
     }
-    .flowrich-navbar, .navbar{
-      background: rgb(243,238,233);
-      background: linear-gradient(90deg, rgba(243,238,233,1) 0%, rgba(243,238,233,1) 41%, rgba(237,228,219,1) 100%);
-      /* #ede4db!important; */
-    }
     
     #flowrich-header-container, .mobile{
       display: none;
